@@ -11,7 +11,7 @@
     <fontcolor name="url" underline="blue"/>
     <fontcolor default="identifier" name="field"/>
     <fontcolor bgColor="ff002b36" foreColor="ff839496" name="default">
-        <font name="Monaco" size="12" style="plain"/>
+        <font name="DejaVu Sans Mono" size="12"/>
     </fontcolor>
     <fontcolor foreColor="ff2aa198" name="string"/>
     <fontcolor default="string" name="markup-attribute-value"/>
