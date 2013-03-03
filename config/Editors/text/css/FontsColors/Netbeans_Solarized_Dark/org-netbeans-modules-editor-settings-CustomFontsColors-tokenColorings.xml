@@ -6,7 +6,7 @@
     </fontcolor>
     <fontcolor default="number" name="hashes"/>
     <fontcolor default="keyword" name="keywords"/>
-    <fontcolor foreColor="ff007c00" name="mod-method">
+    <fontcolor foreColor="ff859900" name="mod-method">
         <font style="bold"/>
     </fontcolor>
     <fontcolor default="default" name="others"/>
